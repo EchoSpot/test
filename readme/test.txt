@@ -5,6 +5,10 @@ git is free
 git is good
 I am a beauty girl
 new line
+<<<<<<< HEAD
 there is branch dev and I hate branch
 
+=======
+there is branch dev and branch branch
+>>>>>>> fraturel
 
